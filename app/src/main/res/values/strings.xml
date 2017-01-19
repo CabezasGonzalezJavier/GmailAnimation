@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GmailAnimation</string>
+    <string name="activity_main_go">Go to the Seocond Activity</string>
+    <string name="activity_second_back">Back to the First Activity</string>
+</resources>

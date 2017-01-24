@@ -1,5 +1,5 @@
 # GmailAnimation
-Gmail overriding pending transition Animation
+Gmail overriding pending transition Animation.
 
 You can find more information in this **[blog](http://thedeveloperworldisyours.com/android/gmail-overriding-pending-transition/#sthash.CEhJwJLg.dpbs)**.
 

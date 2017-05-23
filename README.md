@@ -3,7 +3,7 @@ Gmail overriding pending transition Animation.
 
 You can find more information in this **[blog](http://thedeveloperworldisyours.com/android/gmail-overriding-pending-transition/#sthash.CEhJwJLg.dpbs)**.
 
-Also you can check more example in **[LopeAnimations](https://github.com/CabezasGonzalezJavier/LopeAnimations)**
+Also you can check more examples in **[LopeAnimations](https://github.com/CabezasGonzalezJavier/LopeAnimations)**
 
 <p align="center">
  <img src="https://github.com/CabezasGonzalezJavier/GmailAnimation/blob/master/GmailAnimation.gif" width="300px" />
